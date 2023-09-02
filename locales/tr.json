@@ -1,0 +1,20 @@
+{
+    "buttons":{
+        "add": "Ekle",
+        "edit": "Düzenle",
+        "delete": "Sil",
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "close": "Kapat",
+        "view": "Görüntüle"
+    },
+    "common": {
+        "application": "Uygulama",
+        "settings": "Ayarlar",
+        "profile": "Profil",
+        "dashboard": "Kontrol Paneli",
+        "dark": "Koyu",
+        "light": "Açık",
+        "system": "Sistem"
+    }
+}

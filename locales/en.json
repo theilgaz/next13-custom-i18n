@@ -1,0 +1,20 @@
+{
+    "buttons": {
+        "add": "Add",
+        "edit": "Edit",
+        "delete": "Delete",
+        "save": "Save",
+        "cancel": "Cancel",
+        "close": "Close",
+        "view": "View"
+    },
+    "common": {
+        "application": "Application",
+        "settings": "Settings",
+        "profile": "Profile",
+        "dashboard": "Dashboard",
+        "dark": "Dark",
+        "light": "Light",
+        "system": "System"
+    }
+}
